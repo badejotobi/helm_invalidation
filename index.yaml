@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v1
+    created: "2024-10-16T22:40:37.765637-07:00"
+    digest: cfa14932003d785dc0a2026b2c678d923e378ebe92f4b014a38b91f016e1227f
+    name: nginx
+    urls:
+    - nginx-v1.tgz
+    version: v1
+generated: "2024-10-16T22:40:37.76363-07:00"
